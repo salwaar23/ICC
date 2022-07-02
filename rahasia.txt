@@ -1,4 +1,4 @@
 Nama    : Salwaa Roudlootul J R
 Kelas   : A3
 Pesan   : Selamat Datang!
-Tambah-tugas   : Tambah tugas
+Tambah-Tugas   : Tambah tugas
